@@ -47,10 +47,10 @@ git clone https://github.com/Ahmad-Cyber-prince/Nuclear-DDoS-Weapon.git
 cd Nuclear-DDoS-Weapon
 
 # Compile the Java file
-javac NuclearDDoSWeapon.java
+javac UniversalDDoS.java
 
 # Run the tool
-java NuclearDDoSWeapon
+java UniversalDDoS
 ```
 
 For Termux Users
@@ -58,15 +58,15 @@ For Termux Users
 ```bash
 pkg update && pkg upgrade
 pkg install openjdk-17
-javac NuclearDDoSWeapon.java
-java NuclearDDoSWeapon
+javac UniversalDDoS.java
+java UniversalDDoS
 ```
 
 For Windows Users
 
 ```cmd
-javac NuclearDDoSWeapon.java
-java NuclearDDoSWeapon
+javac UniversalDDoS.java
+java UniversalDDoS
 ```
 
 📋 Usage Guide
