@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🚀 Nuclear DDoS Weapon
 
 ![Version](https://img.shields.io/badge/Version-6.0-blue)
@@ -193,6 +193,4 @@ If you discover any security vulnerabilities, please report them responsibly thr
 Created with ❤️ by Ahmad Cyber Prince
 Instagram: @Cyber_ir_Ahmad
 
-⭐ If you find this project useful, please give it a star! ⭐
-
-```
+⭐ If you find this project useful, please give it a star! ⭐ 
